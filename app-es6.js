@@ -209,4 +209,4 @@ document.getElementById('book-list').addEventListener('click', function(e) {
 	}
 	// Prevent Default Behavior
 	e.preventDefault();
-})
+});
